@@ -1,4 +1,4 @@
-use client
+use client,
 import { useState } from 'react'
 import { Scale, Upload, Shield, Zap } from 'lucide-react'
 export default function Home() {
